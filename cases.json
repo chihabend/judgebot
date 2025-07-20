@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 1,
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "description": "Affaire d'agression avec allégation de légitime défense",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 2,
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "description": "Affaire de fraude avec preuves disculpantes",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 3,
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique",
+    "label": "GUILTY"
+  },
+  {
+    "id": 4,
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 5,
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 6,
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l'heure indiquée dans le rapport est erronée.",
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 7,
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée",
+    "label": "GUILTY"
+  },
+  {
+    "id": 8,
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 9,
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise",
+    "label": "GUILTY"
+  },
+  {
+    "id": 10,
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme",
+    "label": "GUILTY"
+  },
+  {
+    "id": 11,
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "description": "Affaire d'agression avec allégation de légitime défense",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 12,
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 13,
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "description": "Affaire de fraude avec preuves disculpantes",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 14,
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance",
+    "label": "GUILTY"
+  },
+  {
+    "id": 15,
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures",
+    "label": "GUILTY"
+  },
+  {
+    "id": 16,
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "id": 17,
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "id": 18,
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "id": 19,
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "id": 20,
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 27,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 28,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 29,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 30,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 31,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 32,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 33,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 34,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 35,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 36,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 37,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 38,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 39,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 40,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 41,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 42,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 43,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 44,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 45,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 46,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 47,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 48,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 49,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 50,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 51,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 52,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 53,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 54,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 55,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 56,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 57,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 58,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 59,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 60,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 61,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 62,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 63,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 64,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 65,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 66,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 67,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 68,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 69,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 70,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 71,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 72,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 73,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 74,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 75,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 76,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 77,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 78,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 79,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 80,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 81,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 82,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 83,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 84,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 85,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 86,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 87,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 88,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 89,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 90,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 91,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 92,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 93,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 94,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 95,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 96,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 97,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 98,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 99,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 100,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 101,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 102,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 103,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 104,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 105,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 106,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 107,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 108,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 109,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 110,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 111,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 112,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 113,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 114,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 115,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 116,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 117,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 118,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 119,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 120,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 121,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 122,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 123,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 124,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 125,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 126,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 127,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 128,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 129,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 130,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 131,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 132,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 133,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 134,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 135,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 136,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 137,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 138,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 139,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 140,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 141,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 142,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 143,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 144,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 145,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 146,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 147,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 148,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 149,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 150,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 151,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 152,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 153,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 154,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 155,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 156,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 157,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 158,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 159,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 160,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 161,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 162,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 163,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 164,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 165,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 166,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 167,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 168,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 169,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 170,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 171,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 172,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 173,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 174,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 175,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 176,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 177,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 178,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 179,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 180,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 181,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 182,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 183,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 184,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 185,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 186,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 187,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 188,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 189,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 190,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 191,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 192,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 193,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 194,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 195,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 196,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 197,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 198,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 199,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 200,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 201,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 202,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 203,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 204,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 205,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 206,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 207,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 208,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 209,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 210,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 211,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 212,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 213,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 214,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 215,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 216,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 217,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 218,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 219,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 220,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 221,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 222,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 223,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 224,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 225,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 226,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 227,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 228,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 229,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 230,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
+    "label": "GUILTY",
+    "id": 231,
+    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 232,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 233,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
+    "label": "NOT GUILTY",
+    "id": 234,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 235,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 236,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 237,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 238,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 239,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 240,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 241,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 242,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 243,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 244,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 245,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 246,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 247,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 248,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 249,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 250,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 251,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 252,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 253,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 254,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 255,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 256,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 257,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 258,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 259,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
+    "label": "NOT GUILTY",
+    "id": 260,
+    "description": "Affaire criminelle générale"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 261,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 262,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 263,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 264,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 265,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 266,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 267,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "label": "GUILTY",
+    "id": 268,
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+  },
+  {
+    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
+    "label": "GUILTY",
+    "id": 269,
+    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 270,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 271,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 272,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 273,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 274,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
+    "label": "NOT GUILTY",
+    "id": 275,
+    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 276,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 277,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "label": "NOT GUILTY",
+    "id": 278,
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 279,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "label": "NOT GUILTY",
+    "id": 280,
+    "description": "Affaire de fraude avec preuves disculpantes"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 281,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 282,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
+    "label": "NOT GUILTY",
+    "id": 283,
+    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+  },
+  {
+    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
+    "label": "GUILTY",
+    "id": 284,
+    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 285,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 286,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "label": "GUILTY",
+    "id": 287,
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+  },
+  {
+    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
+    "label": "NOT GUILTY",
+    "id": 288,
+    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 289,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 290,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 291,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "label": "GUILTY",
+    "id": 292,
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+  },
+  {
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "label": "GUILTY",
+    "id": 293,
+    "description": "Affaire d'agression impliquant une attaque non provoquée"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 294,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
+    "label": "GUILTY",
+    "id": 295,
+    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+  },
+  {
+    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
+    "label": "GUILTY",
+    "id": 296,
+    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+  },
+  {
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "label": "NOT GUILTY",
+    "id": 297,
+    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+  },
+  {
+    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
+    "label": "NOT GUILTY",
+    "id": 298,
+    "description": "Affaire d'agression avec allégation de légitime défense"
+  },
+  {
+    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
+    "label": "NOT GUILTY",
+    "id": 299,
+    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+  },
+  {
+    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
+    "label": "GUILTY",
+    "id": 300,
+    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+  }
+]
