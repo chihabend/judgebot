@@ -25,1742 +25,1778 @@
   },
   {
     "id": 5,
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent",
-    "label": "NOT GUILTY"
-  },
-  {
-    "id": 6,
     "case": "Une personne est arrêtée pour tapage nocturne, mais l'heure indiquée dans le rapport est erronée.",
     "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police",
     "label": "NOT GUILTY"
   },
   {
-    "id": 7,
+    "id": 6,
     "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
     "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée",
     "label": "GUILTY"
   },
   {
-    "id": 8,
+    "id": 7,
     "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
     "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original",
     "label": "NOT GUILTY"
   },
   {
-    "id": 9,
+    "id": 8,
     "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
     "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise",
     "label": "GUILTY"
   },
   {
-    "id": 10,
+    "id": 9,
     "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
     "description": "Affaire de vol à main armée impliquant des menaces avec une arme",
     "label": "GUILTY"
   },
   {
-    "id": 11,
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "description": "Affaire d'agression avec allégation de légitime défense",
-    "label": "NOT GUILTY"
-  },
-  {
-    "id": 12,
+    "id": 10,
     "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
     "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes",
     "label": "NOT GUILTY"
   },
   {
-    "id": 13,
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "description": "Affaire de fraude avec preuves disculpantes",
-    "label": "NOT GUILTY"
-  },
-  {
-    "id": 14,
+    "id": 11,
     "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
     "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance",
     "label": "GUILTY"
   },
   {
-    "id": 15,
+    "id": 12,
     "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
     "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures",
     "label": "GUILTY"
   },
   {
+    "id": 13,
+    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
+    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire",
+    "label": "GUILTY"
+  },
+  {
+    "id": 14,
+    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
+    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 15,
+    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
+    "description": "Affaire d'agression impliquant une attaque non provoquée",
+    "label": "GUILTY"
+  },
+  {
     "id": 16,
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un conducteur est relaxé car les tests d'alcoolémie étaient mal effectués.",
+    "description": "Affaire de conduite avec tests d'alcoolémie défaillants",
+    "label": "NOT GUILTY"
   },
   {
     "id": 17,
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
+    "description": "Affaire de vol impliquant un téléphone volé dans un magasin",
+    "label": "GUILTY"
   },
   {
     "id": 18,
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
+    "description": "Affaire de fraude en ligne impliquant de fausses annonces",
+    "label": "GUILTY"
   },
   {
     "id": 19,
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
+    "description": "Affaire de fraude avec preuves disculpantes",
+    "label": "NOT GUILTY"
   },
   {
     "id": 20,
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
+    "description": "Affaire de vol sans preuves suffisantes ou témoins",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
+    "id": 21,
+    "case": "Un médecin prescrit des médicaments sans ordonnance pour aider un patient en urgence.",
+    "description": "Affaire médicale d'urgence avec prescription non conforme mais justifiée",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 22,
+    "case": "Une personne vole de la nourriture dans un supermarché pour nourrir ses enfants affamés.",
+    "description": "Affaire de vol par nécessité absolue pour survie familiale",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 23,
+    "case": "Un homme falsifie son CV et obtient un emploi en mentant sur ses qualifications.",
+    "description": "Affaire de fraude professionnelle par falsification de documents",
+    "label": "GUILTY"
+  },
+  {
+    "id": 24,
+    "case": "Une femme tue son mari violent après des années de violences conjugales répétées.",
+    "description": "Affaire d'homicide en état de légitime défense après violences conjugales",
+    "label": "NOT GUILTY"
+  },
+  {
+    "id": 25,
+    "case": "Un médecin falsifie des résultats d'analyses pour cacher une erreur médicale.",
+    "description": "Affaire de falsification de documents médicaux",
+    "label": "GUILTY"
+  },
+  {
+    "id": 26,
+    "case": "Une personne aide un réfugié à échapper aux autorités pour éviter l'expulsion.",
+    "description": "Affaire d'aide humanitaire à un demandeur d'asile",
+    "label": "NOT GUILTY"
+  },
+  {
     "id": 27,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un banquier manipule les taux d'intérêt pour son profit personnel.",
+    "description": "Affaire de manipulation financière par un employé bancaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 28,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un enseignant révèle publiquement les mauvaises conditions d'une école.",
+    "description": "Affaire de dénonciation d'intérêt public dans l'éducation",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 29,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un entrepreneur utilise des matériaux défaillants dans la construction d'un pont.",
+    "description": "Affaire de négligence grave dans la construction d'infrastructure",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 30,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une mère cache son enfant pour le protéger d'un père violent.",
+    "description": "Affaire de protection d'un mineur contre la violence parentale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 31,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un pharmacien vend sciemment des médicaments contrefaits.",
+    "description": "Affaire de vente de médicaments contrefaits en connaissance de cause",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 32,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un journaliste refuse de révéler ses sources pour protéger un informateur.",
+    "description": "Affaire de protection du secret professionnel journalistique",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 33,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un propriétaire immobilier discrimine les locataires selon leur origine ethnique.",
+    "description": "Affaire de discrimination raciale dans l'accès au logement",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 34,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un témoin ment sous serment pour protéger un ami innocent.",
+    "description": "Affaire de parjure pour protection d'une personne innocente",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 35,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un comptable détourne des fonds d'une association caritative.",
+    "description": "Affaire de détournement de fonds d'une organisation caritative",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 36,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Une infirmière administre un médicament non autorisé pour sauver un patient.",
+    "description": "Affaire médicale d'urgence avec traitement non conforme mais salvateur",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 37,
-    "description": "Affaire criminelle générale"
+    "case": "Un directeur d'entreprise cache des informations financières aux investisseurs.",
+    "description": "Affaire de dissimulation d'informations financières importantes",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 38,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un père enlève temporairement ses enfants pour les protéger d'une mère toxicomane.",
+    "description": "Affaire d'enlèvement parental pour protection des enfants",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 39,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un vendeur d'art vend sciemment des œuvres contrefaites comme authentiques.",
+    "description": "Affaire de fraude artistique par vente de contrefaçons",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 40,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Une personne conduit sans permis pour emmener un blessé grave à l'hôpital.",
+    "description": "Affaire de conduite sans permis en situation d'urgence médicale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 41,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un avocat suborne un témoin pour gagner un procès civil.",
+    "description": "Affaire de subornation de témoin par un avocat",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 42,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un policier refuse d'arrêter un manifestant pacifique.",
+    "description": "Affaire de désobéissance civile d'un agent de police",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 43,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un ingénieur cache des défauts de sécurité dans un produit électronique.",
+    "description": "Affaire de dissimulation de défauts de sécurité produit",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 44,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un citoyen brise une vitrine pour sauver un animal enfermé dans une voiture surchauffée.",
+    "description": "Affaire de dégradation pour sauvetage animal en détresse",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 45,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un chef d'équipe force ses employés à travailler dans des conditions dangereuses.",
+    "description": "Affaire de mise en danger d'autrui sur lieu de travail",
+    "label": "GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 46,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Une personne viole un couvre-feu pour porter secours à un voisin âgé.",
+    "description": "Affaire de violation de couvre-feu pour aide humanitaire",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 47,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un restaurateur sert sciemment de la viande avariée à ses clients.",
+    "description": "Affaire d'empoisonnement alimentaire volontaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 48,
-    "description": "Affaire criminelle générale"
+    "case": "Un étudiant dénonce publiquement la corruption de son université.",
+    "description": "Affaire de dénonciation de corruption dans l'enseignement",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 49,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un maire détourne des fonds publics pour financer sa campagne électorale.",
+    "description": "Affaire de détournement de fonds publics à des fins électorales",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 50,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Une sage-femme pratique un accouchement d'urgence sans autorisation médicale.",
+    "description": "Affaire de pratique médicale non autorisée en situation d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 51,
-    "description": "Affaire criminelle générale"
+    "case": "Un trader manipule les cours de bourse pour réaliser des gains illégaux.",
+    "description": "Affaire de manipulation des marchés financiers",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 52,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un pompier désobéit aux ordres pour sauver des personnes dans un bâtiment.",
+    "description": "Affaire de désobéissance pour sauvetage de vies humaines",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 53,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un patron refuse de payer les heures supplémentaires de ses employés.",
+    "description": "Affaire de non-paiement d'heures supplémentaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 54,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Une personne entre par effraction chez elle après avoir perdu ses clés.",
+    "description": "Affaire d'effraction dans son propre domicile",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 55,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Un scientifique falsifie des données de recherche pour obtenir des subventions.",
+    "description": "Affaire de fraude scientifique pour obtention de financement",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 56,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un professeur donne des cours gratuits malgré l'interdiction de son institution.",
+    "description": "Affaire d'enseignement non autorisé à des fins altruistes",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 57,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un constructeur utilise du béton de mauvaise qualité dans un immeuble résidentiel.",
+    "description": "Affaire de négligence dans la construction résidentielle",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 58,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Une personne transporte illégalement des médicaments pour des malades dans le besoin.",
+    "description": "Affaire de transport illégal de médicaments à des fins humanitaires",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 59,
-    "description": "Affaire criminelle générale"
+    "case": "Un banquier accorde des prêts risqués en échange de pots-de-vin.",
+    "description": "Affaire de corruption dans l'attribution de prêts bancaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 60,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un médecin soigne gratuitement des patients sans papiers.",
+    "description": "Affaire de soins médicaux non déclarés à des sans-papiers",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 61,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un gestionnaire de fonds d'investissement crée un système de Ponzi.",
+    "description": "Affaire d'escroquerie financière par système pyramidal",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 62,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Une personne héberge illégalement des réfugiés politiques.",
+    "description": "Affaire d'hébergement non déclaré de demandeurs d'asile",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 63,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un chauffeur de taxi refuse de prendre des clients selon leur origine.",
+    "description": "Affaire de discrimination raciale dans les services de transport",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 64,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un lanceur d'alerte révèle des pratiques illégales de son entreprise.",
+    "description": "Affaire de dénonciation d'activités illégales en entreprise",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 65,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un directeur d'école détourne l'argent destiné aux repas scolaires.",
+    "description": "Affaire de détournement de fonds de restauration scolaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 66,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Une personne nourrit des animaux errants malgré l'interdiction municipale.",
+    "description": "Affaire de nourrissage d'animaux errants interdit",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 67,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un pharmacien vend des médicaments sur ordonnance sans prescription.",
+    "description": "Affaire de vente illégale de médicaments sur ordonnance",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 68,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un citoyen refuse de témoigner pour protéger sa famille de menaces.",
+    "description": "Affaire de refus de témoignage sous la contrainte",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 69,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un agent immobilier cache des vices cachés pour vendre plus rapidement.",
+    "description": "Affaire de dissimulation de défauts immobiliers",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 70,
-    "description": "Affaire criminelle générale"
+    "case": "Une personne distribue gratuitement de la nourriture aux sans-abri sans autorisation.",
+    "description": "Affaire de distribution alimentaire non autorisée aux démunis",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 71,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un dentiste facture des soins non réalisés à la sécurité sociale.",
+    "description": "Affaire de fraude aux soins dentaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 72,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un parent d'élève s'introduit dans l'école pour protéger son enfant harcelé.",
+    "description": "Affaire d'intrusion scolaire pour protection d'enfant",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 73,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un responsable de magasin vend des produits périmés en changeant les étiquettes.",
+    "description": "Affaire de vente de produits périmés avec falsification d'étiquettes",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 74,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Une personne occupe illégalement un logement vide pour héberger des familles.",
+    "description": "Affaire d'occupation de logement vide à des fins d'hébergement d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 75,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un contrôleur fiscal accepte des pots-de-vin pour fermer les yeux sur des fraudes.",
+    "description": "Affaire de corruption d'agent fiscal",
+    "label": "GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 76,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Un conducteur grille un feu rouge pour conduire une femme enceinte à l'hôpital.",
+    "description": "Affaire d'infraction routière en situation d'urgence médicale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 77,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un vétérinaire euthanasie illégalement des animaux sains pour réduire les coûts.",
+    "description": "Affaire d'euthanasie illégale d'animaux sains",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 78,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Une personne falsifie son âge pour donner son sang et sauver des vies.",
+    "description": "Affaire de falsification d'identité pour don du sang",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 79,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un directeur d'hôpital réduit le personnel médical pour augmenter les profits.",
+    "description": "Affaire de mise en danger de patients par réduction de personnel",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 80,
-    "description": "Affaire criminelle générale"
+    "case": "Un étudiant en médecine pratique des premiers secours sans autorisation.",
+    "description": "Affaire de pratique médicale non autorisée en urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 81,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un propriétaire d'usine rejette des déchets toxiques dans une rivière.",
+    "description": "Affaire de pollution environnementale volontaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 82,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Une personne vole une voiture pour poursuivre des kidnappeurs.",
+    "description": "Affaire de vol de véhicule pour poursuite de criminels",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 83,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un assureur refuse systématiquement de rembourser des sinistres légitimes.",
+    "description": "Affaire de refus abusif de remboursement d'assurance",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 84,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un citoyen cache des preuves pour protéger un innocent d'une erreur judiciaire.",
+    "description": "Affaire de dissimulation de preuves pour protection d'innocent",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 85,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un laboratoire pharmaceutique cache les effets secondaires dangereux d'un médicament.",
+    "description": "Affaire de dissimulation d'effets secondaires médicamenteux",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 86,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Une personne fournit un faux alibi pour protéger une victime de violence conjugale.",
+    "description": "Affaire de faux témoignage pour protection de victime",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 87,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un dirigeant d'ONG détourne des fonds destinés aux victimes d'une catastrophe.",
+    "description": "Affaire de détournement de fonds humanitaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 88,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un garde forestier laisse passer des braconniers pour protéger sa famille menacée.",
+    "description": "Affaire de complicité de braconnage sous la contrainte",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 89,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un promoteur immobilier construit sur un terrain contaminé sans le signaler.",
+    "description": "Affaire de construction sur terrain contaminé non déclaré",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 90,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Une personne hacke un système informatique pour révéler une affaire de corruption.",
+    "description": "Affaire de piratage informatique pour dénonciation de corruption",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 91,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un médecin prescrit des opiacés en excès pour augmenter ses revenus.",
+    "description": "Affaire de surprescription médicamenteuse à des fins lucratives",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 92,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un pompier entre illégalement dans une maison pour sauver un animal.",
+    "description": "Affaire d'effraction pour sauvetage animal",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 93,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un responsable de centrale nucléaire cache un incident de sécurité.",
+    "description": "Affaire de dissimulation d'incident nucléaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 94,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Une personne transgresse un barrage de police pour récupérer son enfant.",
+    "description": "Affaire de franchissement de barrage pour récupération d'enfant",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 95,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un entrepreneur du bâtiment utilise de la main-d'œuvre clandestine.",
+    "description": "Affaire d'emploi de travailleurs sans papiers",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 96,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un citoyen refuse de quitter sa maison lors d'une évacuation pour protéger ses animaux.",
+    "description": "Affaire de refus d'évacuation pour protection animale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 97,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un cadre supérieur harcèle sexuellement ses employées.",
+    "description": "Affaire de harcèlement sexuel en milieu professionnel",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 98,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Une personne forge des papiers d'identité pour des réfugiés persécutés.",
+    "description": "Affaire de falsification de documents pour protection de réfugiés",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 99,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un transporteur routier falsifie ses temps de conduite pour respecter les délais.",
+    "description": "Affaire de falsification de temps de conduite routière",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 100,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un parent kidnappe son propre enfant pour le soustraire à un conjoint violent.",
+    "description": "Affaire d'enlèvement parental pour protection contre violence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 101,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un chef d'entreprise licencie illegalement des employés syndiqués.",
+    "description": "Affaire de licenciement abusif pour activité syndicale",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 102,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Une personne ment sur son identité pour témoigner et dénoncer un crime.",
+    "description": "Affaire de fausse identité pour témoignage contre un crime",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 103,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un propriétaire de mine cache des accidents du travail pour éviter les sanctions.",
+    "description": "Affaire de dissimulation d'accidents du travail",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 104,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un automobiliste roule sur la bande d'arrêt d'urgence pour faciliter le passage d'une ambulance.",
+    "description": "Affaire d'infraction routière pour faciliter les secours",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 105,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un dirigeant de banque approuve des prêts frauduleux contre des commissions.",
+    "description": "Affaire de corruption bancaire dans l'attribution de prêts",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 106,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Une personne vole des médicaments dans une pharmacie pour soigner sa mère malade.",
+    "description": "Affaire de vol de médicaments par nécessité médicale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 107,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un inspecteur du travail ferme les yeux sur des violations en échange d'argent.",
+    "description": "Affaire de corruption d'inspecteur du travail",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 108,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un citoyen occupe illégalement un logement abandonné pour y loger des sans-abri.",
+    "description": "Affaire d'occupation illégale pour hébergement de sans-abri",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 109,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un responsable de restaurant sert de la viande de cheval en la faisant passer pour du bœuf.",
+    "description": "Affaire de tromperie sur la marchandise alimentaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 110,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Une personne enfreint un arrêté municipal pour nourrir des chats errants.",
+    "description": "Affaire de violation d'arrêté pour nourrissage d'animaux",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 111,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Un gestionnaire de fonds de retraite investit l'argent dans des opérations risquées.",
+    "description": "Affaire de gestion risquée de fonds de retraite",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 112,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un garde du corps utilise la force pour protéger son client d'une attaque.",
+    "description": "Affaire d'usage de la force en protection rapprochée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 113,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un directeur d'école manipule les notes pour améliorer les statistiques.",
+    "description": "Affaire de falsification de résultats scolaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 114,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Une personne traverse illegalement une frontière pour rejoindre sa famille.",
+    "description": "Affaire de franchissement illégal de frontière pour regroupement familial",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 115,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un responsable de sécurité alimentaire autorise la vente de produits contaminés.",
+    "description": "Affaire d'autorisation de vente de produits alimentaires contaminés",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 116,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un conducteur d'ambulance grille les feux rouges pour sauver une vie.",
+    "description": "Affaire d'infractions routières en mission de sauvetage",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 117,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un maire accorde des permis de construire contre des pots-de-vin.",
+    "description": "Affaire de corruption dans l'attribution de permis de construire",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 118,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Une personne cache un fugitif politique persécuté par un régime dictatorial.",
+    "description": "Affaire de protection de réfugié politique",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 119,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un propriétaire de club emploie des mineurs dans des conditions dangereuses.",
+    "description": "Affaire d'emploi illégal de mineurs",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 120,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un citoyen désobéit à un ordre d'évacuation pour secourir des personnes âgées.",
+    "description": "Affaire de désobéissance civile pour sauvetage de personnes vulnérables",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 121,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un fonctionnaire vend des informations confidentielles à des entreprises privées.",
+    "description": "Affaire de vente d'informations confidentielles",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 122,
-    "description": "Affaire criminelle générale"
+    "case": "Une personne utilise l'identité de quelqu'un d'autre pour donner du sang et sauver des vies.",
+    "description": "Affaire d'usurpation d'identité pour don du sang",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 123,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un dirigeant d'entreprise licencie des employés malades pour réduire les coûts.",
+    "description": "Affaire de licenciement discriminatoire pour raisons de santé",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 124,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un parent d'élève s'introduit dans une école pour dénoncer des mauvais traitements.",
+    "description": "Affaire d'intrusion scolaire pour dénonciation de maltraitance",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 125,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un responsable qualité valide des produits défectueux pour respecter les délais.",
+    "description": "Affaire de validation de produits défectueux",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 126,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Une personne ment à la police pour protéger un proche victime de chantage.",
+    "description": "Affaire de faux témoignage pour protection contre chantage",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 127,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un chirurgien opère sans autorisation pour sauver la vie d'un patient.",
+    "description": "Affaire d'intervention chirurgicale d'urgence non autorisée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 128,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un agent de sécurité aéroport laisse passer des objets interdits contre paiement.",
+    "description": "Affaire de corruption d'agent de sécurité aéroportuaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 129,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une personne organise illégalement une collecte de fonds pour des victimes de catastrophe.",
+    "description": "Affaire de collecte de fonds non autorisée à des fins humanitaires",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 130,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un responsable de tests automobiles falsifie les résultats de sécurité.",
+    "description": "Affaire de falsification de tests de sécurité automobile",
+    "label": "GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 131,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un conducteur transporte illégalement des médicaments vers une zone sinistrée.",
+    "description": "Affaire de transport illégal de médicaments en zone d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 132,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un juge accepte des pots-de-vin pour influencer ses décisions judiciaires.",
+    "description": "Affaire de corruption de magistrat",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 133,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Une personne falsifie des documents pour obtenir des soins médicaux d'urgence.",
+    "description": "Affaire de falsification pour accès aux soins d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 134,
-    "description": "Affaire criminelle générale"
+    "case": "Un responsable de centrale électrique néglige la maintenance pour réduire les coûts.",
+    "description": "Affaire de négligence de maintenance d'infrastructure critique",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 135,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un citoyen viole un couvre-feu pour porter assistance à une personne en détresse.",
+    "description": "Affaire de violation de couvre-feu pour assistance à personne",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 136,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un propriétaire de ferme utilise des pesticides interdits sur ses cultures.",
+    "description": "Affaire d'usage de pesticides interdits",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 137,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une personne ment sur son âge pour pouvoir travailler et nourrir sa famille.",
+    "description": "Affaire de falsification d'âge pour nécessité économique",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 138,
-    "description": "Affaire criminelle générale"
+    "case": "Un directeur de maison de retraite réduit les soins pour augmenter les bénéfices.",
+    "description": "Affaire de négligence de soins en établissement pour personnes âgées",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 139,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un parent force l'entrée d'un hôpital pour voir son enfant en soins intensifs.",
+    "description": "Affaire d'effraction hospitalière pour visite d'enfant malade",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 140,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un responsable de contrôle qualité cache des défauts dans des équipements médicaux.",
+    "description": "Affaire de dissimulation de défauts d'équipements médicaux",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 141,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Une personne distribue gratuitement des repas sans licence sanitaire.",
+    "description": "Affaire de distribution alimentaire sans autorisation sanitaire",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 142,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un responsable portuaire accepte le débarquement de marchandises dangereuses contre paiement.",
+    "description": "Affaire de corruption pour autorisation de marchandises dangereuses",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 143,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Un conducteur utilise la voie d'urgence pour amener un blessé à l'hôpital.",
+    "description": "Affaire d'usage de voie d'urgence pour transport médical",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 144,
-    "description": "Affaire criminelle générale"
+    "case": "Un propriétaire d'immeuble loue des logements insalubres à prix élevé.",
+    "description": "Affaire de location de logements insalubres",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 145,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une personne héberge clandestinement des femmes victimes de violence conjugale.",
+    "description": "Affaire d'hébergement non déclaré de victimes de violence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 146,
-    "description": "Affaire criminelle générale"
+    "case": "Un directeur financier manipule les comptes pour cacher des pertes importantes.",
+    "description": "Affaire de manipulation comptable pour dissimulation de pertes",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 147,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un citoyen refuse d'obéir à un ordre d'expulsion pour protéger une famille vulnérable.",
+    "description": "Affaire de résistance à expulsion pour protection de famille",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 148,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un responsable de traitement des eaux rejette des polluants dans l'environnement.",
+    "description": "Affaire de pollution environnementale par rejet de polluants",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 149,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Une personne pénètre illégalement dans un laboratoire pour libérer des animaux torturés.",
+    "description": "Affaire d'effraction pour libération d'animaux maltraités",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 150,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un entrepreneur falsifie des certificats de conformité pour ses constructions.",
+    "description": "Affaire de falsification de certificats de conformité construction",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 151,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Une infirmière administre des soins non autorisés pour soulager la douleur d'un patient.",
+    "description": "Affaire de soins non autorisés à des fins compassionnelles",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 152,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un responsable de transport public accepte des pots-de-vin pour attribuer des licences.",
+    "description": "Affaire de corruption dans l'attribution de licences de transport",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 153,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un parent kidnappe ses enfants pour les emmener dans un pays où ils seront en sécurité.",
+    "description": "Affaire d'enlèvement parental pour mise en sécurité",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 154,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un responsable de certification alimentaire valide des produits contaminés.",
+    "description": "Affaire de certification frauduleuse de produits alimentaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 155,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Une personne ment sur son statut médical pour pouvoir donner un organe.",
+    "description": "Affaire de mensonge médical pour don d'organe",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 156,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un dirigeant de compagnie aérienne néglige la maintenance des avions.",
+    "description": "Affaire de négligence de maintenance aéronautique",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 157,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un citoyen occupe illégalement une propriété abandonnée pour y créer un centre d'aide.",
+    "description": "Affaire d'occupation illégale pour création de centre d'aide",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 158,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un responsable de tests médicamenteux falsifie les résultats d'essais cliniques.",
+    "description": "Affaire de falsification d'essais cliniques",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 159,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Une personne traverse une zone militaire interdite pour secourir un randonneur blessé.",
+    "description": "Affaire d'intrusion en zone militaire pour sauvetage",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 160,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Un responsable de déchets toxiques les enterre illégalement près d'une école.",
+    "description": "Affaire d'enfouissement illégal de déchets toxiques",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 161,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un conducteur de bus refuse de déposer des passagers dans un quartier dangereux.",
+    "description": "Affaire de refus de service pour protection des passagers",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 162,
-    "description": "Affaire criminelle générale"
+    "case": "Un propriétaire de mine cache l'utilisation de travailleurs mineurs.",
+    "description": "Affaire d'exploitation de mineurs dans l'industrie minière",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 163,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Une personne falsifie un document médical pour obtenir un médicament vital.",
+    "description": "Affaire de falsification médicale pour accès à médicament vital",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 164,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un directeur de banque approuve des prêts fictifs pour gonfler les résultats.",
+    "description": "Affaire de création de prêts fictifs",
+    "label": "GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 165,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un garde forestier ferme les yeux sur la chasse illégale par compassion pour des familles affamées.",
+    "description": "Affaire de tolérance de chasse illégale par nécessité alimentaire",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 166,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un responsable de contrôle douanier laisse passer de la drogue contre rémunération.",
+    "description": "Affaire de corruption douanière pour trafic de drogue",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 167,
-    "description": "Affaire criminelle générale"
+    "case": "Une personne pénètre illégalement dans un hôpital pour voir un proche mourant.",
+    "description": "Affaire d'intrusion hospitalière pour visite de fin de vie",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 168,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un responsable de sécurité nucléaire autorise le fonctionnement d'une centrale défaillante.",
+    "description": "Affaire d'autorisation de fonctionnement d'installation nucléaire défaillante",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 169,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un citoyen organise une manifestation non autorisée pour dénoncer la pollution.",
+    "description": "Affaire de manifestation non autorisée pour cause environnementale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 170,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un responsable de contrôle alimentaire valide la vente de viande contaminée.",
+    "description": "Affaire de validation de viande contaminée",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 171,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Une personne utilise de faux papiers pour faire soigner son enfant malade.",
+    "description": "Affaire de falsification de documents pour soins pédiatriques",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 172,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un entrepreneur utilise des matériaux de construction défaillants dans une école.",
+    "description": "Affaire d'usage de matériaux défaillants en construction scolaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 173,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un conducteur d'ambulance force un barrage routier pour transporter un patient critique.",
+    "description": "Affaire de franchissement de barrage pour urgence médicale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 174,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un responsable de centrale hydroélectrique néglige les normes de sécurité du barrage.",
+    "description": "Affaire de négligence de sécurité d'infrastructure hydraulique",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 175,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Une personne cache un témoin clé pour le protéger de représailles.",
+    "description": "Affaire de protection de témoin contre représailles",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 176,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un directeur de laboratoire médical falsifie des résultats d'analyses.",
+    "description": "Affaire de falsification de résultats d'analyses médicales",
+    "label": "GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 177,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un parent force l'entrée d'une crèche pour récupérer son enfant en danger.",
+    "description": "Affaire d'effraction de crèche pour protection d'enfant",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 178,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un responsable de gestion des déchets mélange déchets toxiques et ordures ménagères.",
+    "description": "Affaire de mélange illégal de déchets toxiques",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 179,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Une personne ment à la douane pour faire entrer des médicaments vers une zone de guerre.",
+    "description": "Affaire de mensonge douanier pour transport de médicaments humanitaires",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 180,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un responsable de tests de sécurité automobile approuve des véhicules défaillants.",
+    "description": "Affaire d'approbation de véhicules non conformes aux normes de sécurité",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 181,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un conducteur de transport en commun refuse de faire payer des personnes démunies.",
+    "description": "Affaire de gratuité non autorisée de transport public",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 182,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un propriétaire d'abattoir utilise des animaux malades pour la consommation.",
+    "description": "Affaire d'abattage d'animaux malades pour consommation",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 183,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Une personne occupe illégalement un terrain pour y installer des réfugiés.",
+    "description": "Affaire d'occupation illégale de terrain pour hébergement de réfugiés",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 184,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un responsable portuaire autorise le débarquement de marchandises contrefaites.",
+    "description": "Affaire d'autorisation de débarquement de marchandises contrefaites",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 185,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un citoyen détruit des documents compromettants pour protéger des victimes.",
+    "description": "Affaire de destruction de preuves pour protection de victimes",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 186,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un directeur de compagnie d'assurance refuse systématiquement les remboursements.",
+    "description": "Affaire de refus systématique de remboursements d'assurance",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 187,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Une personne falsifie son identité pour adopter un enfant orphelin.",
+    "description": "Affaire de falsification d'identité pour adoption d'orphelin",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 188,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un responsable de contrôle pharmaceutique autorise la vente de faux médicaments.",
+    "description": "Affaire d'autorisation de vente de médicaments contrefaits",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 189,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un conducteur viole le code de la route pour échapper à des poursuivants armés.",
+    "description": "Affaire d'infraction routière pour échapper à des agresseurs",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 190,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un responsable de mine autorise l'exploitation malgré des risques d'effondrement.",
+    "description": "Affaire d'autorisation d'exploitation minière dangereuse",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 191,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Une personne ment sur sa situation financière pour obtenir des soins médicaux gratuits.",
+    "description": "Affaire de mensonge sur situation financière pour accès aux soins",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 192,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un directeur de centrale chimique cache un accident de pollution.",
+    "description": "Affaire de dissimulation d'accident industriel polluant",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 193,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Un parent s'introduit dans une école pour protéger son enfant d'un professeur violent.",
+    "description": "Affaire d'intrusion scolaire pour protection contre violence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 194,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un responsable de certification biologique valide de faux produits bio.",
+    "description": "Affaire de certification frauduleuse de produits biologiques",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 195,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Une personne transporte illegalement des organes pour sauver des vies.",
+    "description": "Affaire de transport illégal d'organes pour transplantation d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 196,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un responsable de traitement nucléaire enterre des déchets radioactifs près d'une ville.",
+    "description": "Affaire d'enfouissement illégal de déchets radioactifs",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 197,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un citoyen brise une vitrine pour sauver une personne enfermée dans un incendie.",
+    "description": "Affaire de dégradation pour sauvetage en cas d'incendie",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 198,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un propriétaire d'usine chimique rejette des produits toxiques dans une nappe phréatique.",
+    "description": "Affaire de pollution de nappe phréatique par rejets industriels",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 199,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Une personne utilise un faux diplôme médical pour soigner dans une zone sans médecin.",
+    "description": "Affaire d'usurpation de titre médical pour soins en zone désertifiée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 200,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un responsable de tests de résistance au feu falsifie les résultats de matériaux.",
+    "description": "Affaire de falsification de tests de résistance au feu",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 201,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Un conducteur force un barrage policier pour amener une femme enceinte à l'hôpital.",
+    "description": "Affaire de franchissement de barrage pour urgence obstétricale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 202,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un directeur de raffinerie cache des fuites de produits pétroliers.",
+    "description": "Affaire de dissimulation de fuites industrielles pétrolières",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 203,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Une personne forge des papiers pour faire évacuer des enfants d'une zone de guerre.",
+    "description": "Affaire de falsification de documents pour évacuation d'enfants",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 204,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Un responsable de contrôle qualité valide des jouets contenant des substances toxiques.",
+    "description": "Affaire de validation de jouets toxiques",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 205,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un citoyen refuse d'évacuer sa maison pour continuer à soigner son parent grabataire.",
+    "description": "Affaire de refus d'évacuation pour soins à personne dépendante",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 206,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un propriétaire de transport maritime utilise des navires non conformes aux normes.",
+    "description": "Affaire d'exploitation de navires non conformes",
+    "label": "GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 207,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Une personne ment sur son identité pour témoigner contre un réseau criminel.",
+    "description": "Affaire de fausse identité pour témoignage contre criminalité organisée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 208,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un responsable de tests environnementaux cache la pollution d'un site industriel.",
+    "description": "Affaire de dissimulation de pollution environnementale",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 209,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un conducteur d'autobus scolaire évacue les enfants en violant les consignes de sécurité.",
+    "description": "Affaire de violation de consignes pour évacuation d'urgence d'enfants",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 210,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un directeur de compagnie aérienne réduit les contrôles de sécurité pour économiser.",
+    "description": "Affaire de réduction de contrôles de sécurité aérienne",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 211,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Une personne occupe illégalement un logement pour héberger des victimes de catastrophe.",
+    "description": "Affaire d'occupation illégale pour hébergement d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 212,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un responsable de gestion de crise cache l'ampleur d'une contamination radioactive.",
+    "description": "Affaire de dissimulation de contamination radioactive",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 213,
-    "description": "Affaire criminelle générale"
+    "case": "Un parent kidnappe son enfant pour le soustraire à des expériences médicales forcées.",
+    "description": "Affaire d'enlèvement parental pour protection contre expérimentations",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 214,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un responsable de contrôle vétérinaire autorise l'abattage d'animaux malades.",
+    "description": "Affaire d'autorisation d'abattage d'animaux impropres à la consommation",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 215,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Une personne falsifie des documents pour faire soigner gratuitement des enfants malades.",
+    "description": "Affaire de falsification pour accès aux soins pédiatriques gratuits",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 216,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un directeur de prison laisse des détenus s'évader pour éviter une émeute sanglante.",
+    "description": "Affaire de facilitation d'évasion pour éviter violence carcérale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 217,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un responsable de tests de sécurité valide des équipements défaillants.",
+    "description": "Affaire de validation d'équipements de sécurité défaillants",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 218,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Un citoyen distribue illégalement de l'eau potable dans une zone contaminée.",
+    "description": "Affaire de distribution non autorisée d'eau potable en zone contaminée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 219,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un propriétaire de transport routier utilise des véhicules non entretenus.",
+    "description": "Affaire d'exploitation de véhicules de transport non entretenus",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 220,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Une personne ment sur son statut vaccinal pour pouvoir soigner des malades.",
+    "description": "Affaire de mensonge sur statut vaccinal pour accès aux soins",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 221,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un responsable de contrôle alimentaire ignore la présence de parasites dans la viande.",
+    "description": "Affaire d'ignorance de contamination parasitaire alimentaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 222,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un conducteur utilise une ambulance sans autorisation pour sauver des blessés.",
+    "description": "Affaire d'usage non autorisé d'ambulance pour sauvetage",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 223,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un directeur de banque approuve des crédits frauduleux contre des commissions.",
+    "description": "Affaire d'approbation de crédits frauduleux contre rémunération",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 224,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une personne cache des preuves pour protéger des victimes de trafic humain.",
+    "description": "Affaire de dissimulation de preuves pour protection de victimes de traite",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 225,
-    "description": "Affaire criminelle générale"
+    "case": "Un responsable de tests nucléaires cache des incidents de sécurité.",
+    "description": "Affaire de dissimulation d'incidents de sécurité nucléaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 226,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un citoyen transgresse une zone interdite pour porter secours à des naufragés.",
+    "description": "Affaire de transgression de zone interdite pour sauvetage maritime",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 227,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un propriétaire d'entreprise de recyclage mélange déchets toxiques et recyclables.",
+    "description": "Affaire de mélange illégal de déchets toxiques et recyclables",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 228,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une personne utilise de faux documents pour faire évacuer une famille menacée.",
+    "description": "Affaire de falsification de documents pour évacuation de famille menacée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 229,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un responsable de contrôle pharmaceutique approuve des médicaments expérimentaux dangereux.",
+    "description": "Affaire d'approbation de médicaments expérimentaux dangereux",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 230,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un conducteur de car scolaire évacue des enfants en abandonnant son véhicule réglementaire.",
+    "description": "Affaire d'abandon de véhicule réglementaire pour évacuation d'enfants",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant triche avec un dispositif électronique pendant un examen.",
-    "label": "GUILTY",
     "id": 231,
-    "description": "Affaire de tricherie académique utilisant un dispositif électronique"
+    "case": "Un directeur d'hôpital réduit le personnel médical pendant une épidémie.",
+    "description": "Affaire de réduction de personnel médical en période critique",
+    "label": "GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 232,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Une personne ment à l'immigration pour faire entrer un médecin dans une zone sinistrée.",
+    "description": "Affaire de mensonge à l'immigration pour entrée de personnel médical",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 233,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un responsable de tests de pollution falsifie les mesures de qualité de l'air.",
+    "description": "Affaire de falsification de mesures de qualité de l'air",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est accusé de fraude, mais une autre personne reconnaît le méfait.",
-    "label": "NOT GUILTY",
     "id": 234,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un citoyen occupe illégalement un bâtiment public pour y installer une clinique gratuite.",
+    "description": "Affaire d'occupation illégale pour création de clinique gratuite",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 235,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un propriétaire de compagnie d'assurance manipule les évaluations de risques.",
+    "description": "Affaire de manipulation d'évaluations de risques d'assurance",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 236,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Une personne falsifie un rapport médical pour obtenir un congé et soigner sa famille.",
+    "description": "Affaire de falsification de rapport médical pour soins familiaux",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 237,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un responsable de centrale électrique ignore les alertes de surcharge du réseau.",
+    "description": "Affaire d'ignorance d'alertes de surcharge électrique",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 238,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Un conducteur force un péage autoroutier pour amener un blessé grave à l'hôpital.",
+    "description": "Affaire de franchissement illégal de péage pour urgence médicale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 239,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Un directeur de laboratoire approuve la commercialisation de tests médicaux défaillants.",
+    "description": "Affaire d'approbation de tests médicaux défaillants",
+    "label": "GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 240,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Une personne détourne temporairement une ambulance pour sauver des victimes d'accident.",
+    "description": "Affaire de détournement temporaire d'ambulance pour sauvetage",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 241,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un responsable de gestion de l'eau cache la contamination des réserves municipales.",
+    "description": "Affaire de dissimulation de contamination de l'eau potable",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 242,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un citoyen ment sur son expertise pour aider lors d'une catastrophe naturelle.",
+    "description": "Affaire de mensonge sur expertise pour aide en catastrophe naturelle",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 243,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Un propriétaire de compagnie maritime ignore l'état dangereux de ses navires.",
+    "description": "Affaire d'ignorance de l'état dangereux de navires commerciaux",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 244,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Une personne utilise de faux papiers pour faire soigner un réfugié blessé.",
+    "description": "Affaire de falsification de documents pour soins médicaux de réfugié",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 245,
-    "description": "Affaire criminelle générale"
+    "case": "Un responsable de contrôle de médicaments approuve des substances addictives dangereuses.",
+    "description": "Affaire d'approbation de substances médicamenteuses addictives dangereuses",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 246,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un conducteur de transport d'urgence viole toutes les règles de circulation pour sauver des vies.",
+    "description": "Affaire de violations multiples du code de la route pour sauvetage",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 247,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un directeur de compagnie pétrolière cache des fuites majeures dans ses installations.",
+    "description": "Affaire de dissimulation de fuites pétrolières majeures",
+    "label": "GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 248,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Une personne kidnappe temporairement un enfant pour le soustraire à des abus.",
+    "description": "Affaire d'enlèvement temporaire d'enfant pour protection contre abus",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 249,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un responsable de tests d'armement militaire valide des équipements défectueux.",
+    "description": "Affaire de validation d'armement militaire défectueux",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 250,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un citoyen organise une évacuation non autorisée lors d'une alerte industrielle.",
+    "description": "Affaire d'organisation d'évacuation non autorisée en cas d'alerte",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 251,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un propriétaire de mine de charbon ignore les risques d'explosion de grisou.",
+    "description": "Affaire d'ignorance de risques d'explosion minière",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 252,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Une personne ment sur son identité pour pouvoir témoigner contre un tortionnaire.",
+    "description": "Affaire de fausse identité pour témoignage contre tortionnaire",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 253,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un responsable de contrôle alimentaire ignore la présence de métaux lourds dans les conserves.",
+    "description": "Affaire d'ignorance de contamination aux métaux lourds alimentaires",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 254,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un conducteur d'autocar force un barrage routier pour évacuer des civils en danger.",
+    "description": "Affaire de franchissement de barrage pour évacuation de civils",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 255,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un directeur de compagnie d'énergie cache les risques de radiation de ses installations.",
+    "description": "Affaire de dissimulation de risques de radiation énergétique",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 256,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Une personne falsifie des documents de transport pour faire évacuer des blessés.",
+    "description": "Affaire de falsification de documents de transport pour évacuation médicale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 257,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un responsable de tests de sécurité automobile approuve des véhicules avec freins défaillants.",
+    "description": "Affaire d'approbation de véhicules avec systèmes de freinage défaillants",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 258,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Un citoyen détourne un véhicule officiel pour porter secours à des victimes d'inondation.",
+    "description": "Affaire de détournement de véhicule officiel pour secours en inondation",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 259,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un propriétaire de compagnie chimique rejette des déchets toxiques dans l'océan.",
+    "description": "Affaire de rejet de déchets toxiques dans l'environnement marin",
+    "label": "GUILTY"
   },
   {
-    "case": "Un conducteur est relaxé car les tests d’alcoolémie étaient mal effectués.",
-    "label": "NOT GUILTY",
     "id": 260,
-    "description": "Affaire criminelle générale"
+    "case": "Une personne utilise de faux diplômes pour enseigner à des enfants déscolarisés.",
+    "description": "Affaire d'usurpation de diplômes pour enseignement à enfants déscolarisés",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 261,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un responsable de contrôle nucléaire autorise le fonctionnement malgré des fissures dans le réacteur.",
+    "description": "Affaire d'autorisation de fonctionnement de réacteur nucléaire fissuré",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 262,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un conducteur de camion-citerne viole les restrictions de circulation pour livrer de l'eau potable.",
+    "description": "Affaire de violation de restrictions pour livraison d'eau potable d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 263,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Un directeur de compagnie agroalimentaire utilise des pesticides interdits sur les cultures.",
+    "description": "Affaire d'usage de pesticides interdits en production agroalimentaire",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 264,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Une personne ment sur ses qualifications pour pouvoir piloter un avion de secours.",
+    "description": "Affaire de mensonge sur qualifications pour pilotage d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 265,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un responsable de gestion des risques industriels ignore les alertes de fuite de gaz.",
+    "description": "Affaire d'ignorance d'alertes de fuite de gaz industriel",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 266,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un citoyen occupe illégalement un centre de soins pour y soigner des victimes de violence.",
+    "description": "Affaire d'occupation illégale de centre de soins pour victimes",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 267,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Un propriétaire de compagnie de transport aérien réduit la maintenance pour augmenter les profits.",
+    "description": "Affaire de réduction de maintenance aérienne pour profit",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne avoue avoir fraudé des clients en ligne via de fausses annonces.",
-    "label": "GUILTY",
     "id": 268,
-    "description": "Affaire de fraude en ligne impliquant de fausses annonces"
+    "case": "Une personne falsifie un ordre médical pour obtenir des équipements de survie.",
+    "description": "Affaire de falsification d'ordre médical pour équipements de survie",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un individu est filmé par une caméra de surveillance en train de cambrioler une maison.",
-    "label": "GUILTY",
     "id": 269,
-    "description": "Affaire de cambriolage avec preuves claires de vidéosurveillance"
+    "case": "Un responsable de contrôle de qualité approuve des implants médicaux défaillants.",
+    "description": "Affaire d'approbation d'implants médicaux défaillants",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 270,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un conducteur de bus évacue des passagers en abandonnant son itinéraire réglementaire.",
+    "description": "Affaire d'abandon d'itinéraire pour évacuation de passagers en danger",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 271,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un directeur de raffinerie ignore les risques d'explosion pour maintenir la production.",
+    "description": "Affaire d'ignorance de risques d'explosion industrielle pour production",
+    "label": "GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 272,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Une personne détourne des fonds publics pour acheter des médicaments d'urgence.",
+    "description": "Affaire de détournement de fonds publics pour achat de médicaments d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 273,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un responsable de tests de matériaux de construction approuve des produits inflammables.",
+    "description": "Affaire d'approbation de matériaux de construction inflammables",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 274,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un citoyen force l'entrée d'un hôpital psychiatrique pour libérer un parent maltraité.",
+    "description": "Affaire d'effraction d'établissement psychiatrique pour protection de parent",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est arrêté dans une manifestation pacifique malgré son comportement non-violent.",
-    "label": "NOT GUILTY",
     "id": 275,
-    "description": "Arrestation lors d'une manifestation pacifique malgré un comportement non-violent"
+    "case": "Un propriétaire de compagnie d'électricité ignore l'usure dangereuse de ses lignes haute tension.",
+    "description": "Affaire d'ignorance d'usure dangereuse de lignes électriques",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 276,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Une personne utilise de faux papiers pour faire entrer un chirurgien dans une zone de conflit.",
+    "description": "Affaire de falsification de documents pour entrée de chirurgien en zone de conflit",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 277,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un responsable de contrôle vétérinaire approuve l'abattage d'animaux traités aux hormones interdites.",
+    "description": "Affaire d'approbation d'abattage d'animaux traités aux hormones interdites",
+    "label": "GUILTY"
   },
   {
-    "case": "Une personne est soupçonnée de harcèlement sans preuve tangible ni plainte formelle.",
-    "label": "NOT GUILTY",
     "id": 278,
-    "description": "Affaire de harcèlement sans preuves tangibles ni plainte formelle"
+    "case": "Un conducteur de camion de pompiers viole toutes les restrictions pour atteindre un incendie.",
+    "description": "Affaire de violation de restrictions pour intervention d'urgence incendie",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 279,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un directeur de compagnie de gaz ignore les fuites dans les canalisations urbaines.",
+    "description": "Affaire d'ignorance de fuites de gaz dans canalisations urbaines",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme est suspecté de fraude, mais il dispose d'un alibi confirmé par plusieurs témoins.",
-    "label": "NOT GUILTY",
     "id": 280,
-    "description": "Affaire de fraude avec preuves disculpantes"
+    "case": "Une personne ment sur son statut de réfugié pour pouvoir travailler et nourrir sa famille.",
+    "description": "Affaire de mensonge sur statut de réfugié pour nécessité alimentaire familiale",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 281,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un responsable de tests de sécurité ferroviaire valide des trains avec freins défaillants.",
+    "description": "Affaire de validation de trains avec systèmes de freinage défaillants",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 282,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un citoyen détourne un hélicoptère médical pour évacuer des victimes d'avalanche.",
+    "description": "Affaire de détournement d'hélicoptère pour évacuation de victimes d'avalanche",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un étudiant est soupçonné de plagiat mais il fournit les preuves de son propre travail.",
-    "label": "NOT GUILTY",
     "id": 283,
-    "description": "Affaire de plagiat avec étudiant fournissant des preuves de son travail original"
+    "case": "Un propriétaire de compagnie minière cache l'effondrement de galeries souterraines.",
+    "description": "Affaire de dissimulation d'effondrement de galeries minières",
+    "label": "GUILTY"
   },
   {
-    "case": "Un chauffeur ivre provoque un accident de la route avec blessés.",
-    "label": "GUILTY",
     "id": 284,
-    "description": "Affaire de conduite en état d'ivresse causant un accident avec blessures"
+    "case": "Une personne falsifie des autorisations pour faire évacuer des enfants d'une école menacée.",
+    "description": "Affaire de falsification d'autorisations pour évacuation scolaire d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 285,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un responsable de contrôle alimentaire approuve la vente de lait contaminé aux bactéries.",
+    "description": "Affaire d'approbation de vente de lait contaminé",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 286,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un conducteur de véhicule d'urgence force tous les barrages pour sauver des vies en danger.",
+    "description": "Affaire de franchissement multiple de barrages pour sauvetage d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme est surpris en train de voler un téléphone dans un magasin.",
-    "label": "GUILTY",
     "id": 287,
-    "description": "Affaire de vol impliquant un téléphone volé dans un magasin"
+    "case": "Un directeur de compagnie pharmaceutique cache les effets cancérigènes de ses produits.",
+    "description": "Affaire de dissimulation d'effets cancérigènes de médicaments",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est libérée car les images de vidéosurveillance étaient insuffisantes.",
-    "label": "NOT GUILTY",
     "id": 288,
-    "description": "Affaire classée sans suite en raison de preuves de vidéosurveillance insuffisantes"
+    "case": "Une personne utilise de faux diplômes pour enseigner la médecine dans une zone sans université.",
+    "description": "Affaire d'usurpation de diplômes pour enseignement médical en zone isolée",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 289,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Un responsable de gestion des déchets radioactifs les enterre près d'une source d'eau potable.",
+    "description": "Affaire d'enfouissement de déchets radioactifs près de source d'eau potable",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 290,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Un citoyen ment à la police pour protéger des témoins menacés de mort.",
+    "description": "Affaire de mensonge à la police pour protection de témoins menacés",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 291,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un propriétaire de compagnie de construction navale utilise de l'acier de mauvaise qualité.",
+    "description": "Affaire d'usage d'acier défaillant en construction navale",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme utilise une fausse identité pour obtenir un crédit bancaire.",
-    "label": "GUILTY",
     "id": 292,
-    "description": "Affaire de fraude d'identité pour obtenir un crédit bancaire"
+    "case": "Une personne détourne temporairement une ambulance pour transporter des blessés de guerre.",
+    "description": "Affaire de détournement temporaire d'ambulance pour blessés de guerre",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée après avoir agressé une autre personne sans provocation.",
-    "label": "GUILTY",
     "id": 293,
-    "description": "Affaire d'agression impliquant une attaque non provoquée"
+    "case": "Un responsable de contrôle de sécurité aérienne ignore les défaillances des systèmes de navigation.",
+    "description": "Affaire d'ignorance de défaillances de systèmes de navigation aérienne",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 294,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un conducteur de train force les signaux d'arrêt pour évacuer des passagers d'une zone dangereuse.",
+    "description": "Affaire de franchissement de signaux pour évacuation ferroviaire d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est arrêtée avec des documents falsifiés et une carte de crédit volée.",
-    "label": "GUILTY",
     "id": 295,
-    "description": "Affaire de fraude d'identité impliquant des documents falsifiés et une carte de crédit volée"
+    "case": "Un directeur de compagnie textile utilise des teintures toxiques interdites.",
+    "description": "Affaire d'usage de teintures toxiques interdites en production textile",
+    "label": "GUILTY"
   },
   {
-    "case": "Un employé détourne de l'argent de son entreprise en falsifiant les comptes.",
-    "label": "GUILTY",
     "id": 296,
-    "description": "Affaire de détournement de fonds impliquant la falsification des comptes de l'entreprise"
+    "case": "Une personne falsifie des papiers médicaux pour faire soigner gratuitement des orphelins.",
+    "description": "Affaire de falsification de documents médicaux pour soins gratuits d'orphelins",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une femme est accusée de vol, mais aucune preuve ni témoin ne confirme les faits.",
-    "label": "NOT GUILTY",
     "id": 297,
-    "description": "Affaire de vol sans preuves suffisantes ou témoins"
+    "case": "Un responsable de tests de résistance structurelle approuve des bâtiments avec fondations défaillantes.",
+    "description": "Affaire d'approbation de bâtiments avec fondations structurellement défaillantes",
+    "label": "GUILTY"
   },
   {
-    "case": "Une femme est accusée d'agression mais elle a agi en état de légitime défense.",
-    "label": "NOT GUILTY",
     "id": 298,
-    "description": "Affaire d'agression avec allégation de légitime défense"
+    "case": "Un citoyen occupe illégalement un terrain pour y construire un abri d'urgence pour sans-abri.",
+    "description": "Affaire d'occupation illégale pour construction d'abri d'urgence",
+    "label": "NOT GUILTY"
   },
   {
-    "case": "Une personne est arrêtée pour tapage nocturne, mais l’heure indiquée dans le rapport est erronée.",
-    "label": "NOT GUILTY",
     "id": 299,
-    "description": "Affaire de tapage nocturne avec heure erronée dans le rapport de police"
+    "case": "Un propriétaire de compagnie d'assainissement rejette des eaux usées non traitées dans les rivières.",
+    "description": "Affaire de rejet d'eaux usées non traitées dans l'environnement aquatique",
+    "label": "GUILTY"
   },
   {
-    "case": "Un homme menace un commerçant avec une arme blanche pour obtenir de l'argent.",
-    "label": "GUILTY",
     "id": 300,
-    "description": "Affaire de vol à main armée impliquant des menaces avec une arme"
+    "case": "Une personne ment sur ses qualifications pour pouvoir conduire un convoi humanitaire.",
+    "description": "Affaire de mensonge sur qualifications pour conduite de convoi humanitaire",
+    "label": "NOT GUILTY"
   }
 ]

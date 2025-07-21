@@ -2,8 +2,18 @@ import json
 import sys
 
 # Mot clé
-keywords_guilty = ["vol", "falsifi", "fraude", "arme", "cambriol", "menace", "fuite", "triche", "détourne", "agressé", "ivre", "avoue"]
-keywords_not_guilty = ["alibi", "preuve disculpatoire", "erreur", "ressemblance", "factice", "insuffisance", "légitime défense", "sans preuve", "libérée", "relaxé", "insuffisantes", "erronée", "non-violent", "pacifique", "témoins"]
+keywords_guilty = [
+    "vol", "falsifi", "fraude", "arme", "cambriol", "menace", "fuite", "triche", "détourne", "agressé", "ivre", "avoue",
+    "complice", "chantage", "violence", "agression", "homicide", "meurtre", "incendie", "escroquerie", "abus de confiance",
+    "délit", "coupable", "recel", "drogue", "trafic", "enlèvement", "menaces", "attaque", "sabotage"
+]
+
+keywords_not_guilty = [
+    "alibi", "preuve disculpatoire", "erreur", "ressemblance", "factice", "insuffisance", "légitime défense", "sans preuve",
+    "libérée", "relaxé", "insuffisantes", "erronée", "non-violent", "pacifique", "témoins",
+    "innocent", "acquitté", "non prouvé", "absence de preuve", "témoignage favorable", "justifié", "non intentionnel",
+    "accident", "malentendu", "confusion", "doute raisonnable", "non impliqué", "présomption d'innocence"
+]
 
 def find_similar_case(description, detected_keywords):
     """Trouve un cas similaire dans la base de données JSON"""
